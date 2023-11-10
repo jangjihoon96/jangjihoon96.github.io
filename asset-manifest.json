@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.ff9315ea.js",
+    "main.css": "/static/css/main.7b394e2e.css",
+    "main.js": "/static/js/main.80316877.js",
     "static/js/787.823ca41c.chunk.js": "/static/js/787.823ca41c.chunk.js",
+    "static/media/BinggraeSamanco-Bold.otf": "/static/media/BinggraeSamanco-Bold.628000a73f73c61ff802.otf",
+    "static/media/BinggraeSamanco.otf": "/static/media/BinggraeSamanco.891bd1a89391db284eaa.otf",
+    "static/media/weather_bg.png": "/static/media/weather_bg.16509be99e4fa179a0d9.png",
+    "static/media/icon_rain.png": "/static/media/icon_rain.0f568e837d9977c0387a.png",
+    "static/media/icon_suncloud.png": "/static/media/icon_suncloud.d6bfdae3001e0d324f98.png",
+    "static/media/icon_sun.png": "/static/media/icon_sun.fee33d44e67e7aa875a7.png",
+    "static/media/icon_cloud.png": "/static/media/icon_cloud.a37d92fc48519eca5c6e.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.ff9315ea.js.map": "/static/js/main.ff9315ea.js.map",
+    "main.7b394e2e.css.map": "/static/css/main.7b394e2e.css.map",
+    "main.80316877.js.map": "/static/js/main.80316877.js.map",
     "787.823ca41c.chunk.js.map": "/static/js/787.823ca41c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ff9315ea.js"
+    "static/css/main.7b394e2e.css",
+    "static/js/main.80316877.js"
   ]
 }
