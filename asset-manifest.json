@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eb2be00e.css",
-    "main.js": "/static/js/main.0b487e15.js",
+    "main.js": "/static/js/main.b6850049.js",
     "static/js/787.823ca41c.chunk.js": "/static/js/787.823ca41c.chunk.js",
     "static/media/BinggraeSamanco-Bold.otf": "/static/media/BinggraeSamanco-Bold.628000a73f73c61ff802.otf",
     "static/media/BinggraeSamanco.otf": "/static/media/BinggraeSamanco.891bd1a89391db284eaa.otf",
@@ -12,11 +12,11 @@
     "static/media/icon_cloud.png": "/static/media/icon_cloud.a37d92fc48519eca5c6e.png",
     "index.html": "/index.html",
     "main.eb2be00e.css.map": "/static/css/main.eb2be00e.css.map",
-    "main.0b487e15.js.map": "/static/js/main.0b487e15.js.map",
+    "main.b6850049.js.map": "/static/js/main.b6850049.js.map",
     "787.823ca41c.chunk.js.map": "/static/js/787.823ca41c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb2be00e.css",
-    "static/js/main.0b487e15.js"
+    "static/js/main.b6850049.js"
   ]
 }
